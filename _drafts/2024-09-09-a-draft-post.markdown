@@ -14,7 +14,7 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 <div><canvas id=myCanvas></canvas></div>
 
-<script type="text/javascript" src="/assets/test.js" ></script>
+<script type="text/javascript" src="/scripts/test.js" ></script>
 
 Jekyll also offers powerful support for code snippets:
 
