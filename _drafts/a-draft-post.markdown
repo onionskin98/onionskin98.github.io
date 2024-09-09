@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello, World!"
-date:   2024-09-09 16:25:52 +0100
+title:  "This is a Draft Post"
+date:   2024-09-09
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -14,7 +14,7 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 <div><canvas id=myCanvas></canvas></div>
 
-<script type="text/javascript" src="/scripts/test.js" ></script>
+<script type="text/javascript" src="/assets/test.js" ></script>
 
 Jekyll also offers powerful support for code snippets:
 
